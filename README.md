@@ -3,3 +3,5 @@
 
 
 ![image](https://github.com/xiaoxionglaoshi/DNCountdownTimeButton/blob/master/time.gif?raw=true)
+
+SwiftCountdownButtonDemo稍作修改
